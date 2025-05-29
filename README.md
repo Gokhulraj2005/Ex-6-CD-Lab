@@ -1,6 +1,8 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# Date : 
+# NAME : GOKHULRAJ V
+# REGISTER NO : 212223230064
+# Date : 20/05/25
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
